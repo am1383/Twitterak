@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dbg.jpg</file>
+        <file>closeup.jpg</file>
+        <file>../../Downloads/anony.jpg</file>
+    </qresource>
+</RCC>
